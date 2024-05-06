@@ -1,0 +1,36 @@
+id,mitglied,party,sector,country,type
+ul,Ursula von der Leyen,CDU,Politik,Deutschland,1
+lk,Lars Klingbeil,SPD,Politik,Deutschland,1
+nr,Norbert Röttgen,CDU,Politik,Deutschland,1
+sw,Sahra Wagenknecht,Linke,Politik,Deutschland,1
+cs,Constanze Stelzenmüller,NA,Wissenschaft,USA,1
+cl,Christian Lindner,FDP,Politik,Deutschland,1
+ks,Karl Schlögel,NA,Wissenschaft,Deutschland,1
+lm,Ljudmyla Melnyk,NA,Politik,Ukraine,1
+kd,Kristina Dunz,NA,Journalismus,Deutschland,1
+el,Egils Levits,NA,Politik,Lettland,1
+ab,Annalena Baerbock,Gruene,Politik,Deutschland,1
+ft,Frans Timmermans,NA,Politik,Niederlande,1
+am,Andrij Melnyk,NA,Politik,Ukraine,1
+agl,Alexander Graf Lambsdorff,FDP,Politik,Deutschland,1
+er,Egon Ramms,NA,Militär,Deutschland,1
+rh,Robert Habeck,Gruene,Politik,Deutschland,1
+cm,Claudia Major,NA,Politik,Deutschland,1
+kp,Katja Petrowskaja,NA,Journalismus,Ukraine,1
+rk,Roderich Kiesewetter,CDU,Politik,Deutschland,1
+cl,Christine Lambrecht,SPD,Politik,Deutschland,1
+sb,Stefanie Babst,NA,Politik,England,1
+ch,Christoph Heusgen,NA,Politik,Deutschland,1
+mw,Marina Weisband,NA,Journalismus,Deutschland,1
+os,Olaf Scholz,SPD,Politik,Deutschland,1
+SPD,SPD,SPD,NA,NA,2
+CDU,CDU,CDU,NA,NA,2
+Linke,Linke,Linke,NA,NA,2
+Gruene,Gruene,Gruene,NA,NA,2
+FDP,FDP,FDP,NA,NA,2
+500,02_20 Keine Entspannung,NA,NA,NA,2
+501,02_27 Putin führt Krieg,NA,NA,NA,2
+502,03_06 Krieg gegen die Ukraine,NA,NA,NA,2
+503,03_13 Angriff auf die Ukraine,NA,NA,NA,2
+504,03_20 Putins Angriff,NA,NA,NA,2
+505,03_27 Olaf Scholz zu Gast,NA,NA,NA,2
